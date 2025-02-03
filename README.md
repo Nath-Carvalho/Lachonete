@@ -1,2 +1,2 @@
-# GerenciamentoDeLivros
-Um sistema para o gerenciamento de livros de uma biblioteca
+# Lanchonete
+Um sistema para realizar pedidos para a entrega de uma lanchonete
